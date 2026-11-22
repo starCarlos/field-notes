@@ -36,7 +36,7 @@
 
 | 篇 | 主题 | 关键数字 |
 | --- | --- | --- |
-| [01 抓书脚本空耗与 CDP 断连自愈](./scraping/01-crawler-cf-and-cdp.md) | 后台标签页过不了 CF；403 要分「掉 cookie」和「删章」 | 251 章 / 114 万字；120 秒超时 vs 前台 15 秒 |
+| [01 抓书脚本空耗与 CDP 断连自愈](./scraping/01-crawler-cf-and-cdp.md) | CF 挑战只能手动过；403 要分「掉 cookie」和「删章」 | 251 章 / 114 万字；120 秒超时 vs 前台手动 15 秒 |
 | [02 数字噪声与数据损坏](./scraping/02-unicode-noise-dataloss.md) | 正则一刀切会丢数据；`<i>` 标签是站点把字弄丢了 | 174 处数字，删错 1 处 |
 
 ### windows · Windows 踩坑
